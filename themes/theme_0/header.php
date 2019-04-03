@@ -36,13 +36,13 @@
   <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="assets/img/axidraw.png" class="d-block w-100">
+      <img src="img/axidraw.jpg" class="d-block w-100">
     </div>
     <div class="carousel-item">
-      <img src="assets/img/axidraw.png" class="d-block w-100">
+      <img src="img/axidraw.jpg" class="d-block w-100">
     </div>
     <div class="carousel-item">
-      <img src="assets/img/axidraw.png" class="d-block w-100">
+      <img src="img/axidraw.jpg" class="d-block w-100">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
